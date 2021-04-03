@@ -6,5 +6,9 @@
 - This is made with reference to the Javascript30 series by Wesbos
 - This is project is a part of MLH Local Hack Day : Share Challenge
 
+### Output 
+
+![](drumkit.PNG)
+
 
 - Feel free to fork it and add a :star:
